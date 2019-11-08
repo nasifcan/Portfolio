@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Blog</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.10/css/mdb.min.css" rel="stylesheet">
+    <link href="~/Css/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="~/Css/fontawesome/css/all.min.css" rel="stylesheet" />
+    
+    <link href="~/Css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a style="color: black" class="navbar-brand" href="/Home/Index"><i><b>Can Nasıf</b></i></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse " id="navbarNav">
+            <ul class="navbar-nav mr-auto mx-auto">
+                <li class="nav-item ">
+                    @Html.ActionLink("Anasayfa", "Index", "Home", new object { }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item ">
+                    @Html.ActionLink("Portfolyo", "Portfolyo", "Home", new object { }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item ">
+                    @Html.ActionLink("İletişim", "Iletisim", "Home", new object { }, new { @class = "nav-link" })
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid" style="margin-top:100px ">
+        <div class="col-md-12 mt-2">
+            <div class="row">
+                <div class="col-md-2 ">
+                    <center>
+                        <div class="mt-3">
+                            <img class="rounded-circle mx-auto d-block border border-danger "
+                                 src="https://scontent.fbtz1-10.fna.fbcdn.net/v/t1.0-9/11221842_10153371043039500_3643287647147029632_n.jpg?_nc_cat=110&_nc_oc=AQmOSjUIvfjoQvLsZHYeGX74ZbK487lsmIB39QaI3a8Dh0CB9xRRCg3uwMuFM6wazZ8&_nc_ht=scontent.fbtz1-10.fna&oh=f7d4b1dd9c9ebaa4051c4a70c6e5fb1a&oe=5E221AAE"
+                                 alt="Smiley face" width="100%" style="max-width: 200px">
+                        </div>
+                        <div class="mt-2">
+                            <h3><i>Can Nasıf</i></h3>
+                        </div>
+                        <div class="row">
+                            <div class="mx-auto ">
+                                <a href="https://www.linkedin.com/in/can-nasif-ab3b76150/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+                                <a href="https://www.facebook.com/cannasif" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
+                                <a href="https://www.instagram.com/can_nasif/?hl=tr" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                                <a href="https://github.com/nasifcan" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
+                                <a href="https://www.google.com" target="_blank" ><i class="fab fa-twitter-square fa-2x"></i></a>
+                                <a href="/Home/Iletisim"><i class="fas fa-at fa-2x"></i></a>
+                            </div>
+                        </div>
+                    </center>
+                </div>
+                <div class="col-md-8 mt-2 ml-5">
+                    @RenderBody()
+
+                </div>
+              
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>

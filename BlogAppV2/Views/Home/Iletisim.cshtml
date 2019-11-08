@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Iletisim";
+    Layout = "~/Views/Shared/Main_Layout.cshtml";
+}
+
+<h1>Iletişim</h1>
+
+@{
+    ViewBag.Title = "Iletisim";
+}
+@if (ViewBag.Error != null)
+{
+    <h2>@ViewBag.Error</h2>
+}
+<form action="Iletisim" method="post">
+    <span class="form-control-static">Email</span>
+    <input class="form-control" type="text" name="receiverEmail" />
+    <span class="form-control-static">Konu</span>
+    <input class="form-control" type="text" name="subject" />
+    <span class="form-control-static">Mesaj</span><br/>
+    <textarea class="form-control" name="message" cols="" rows="" style="width:100%;height:10em;"></textarea>
+    <br />
+    <center><button type="submit" class="btn btn-success" value="Send">Send Mail</button></center>
+    
+</form>
+

@@ -1,0 +1,138 @@
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\BlogAppV2.dll.config
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\BlogAppV2.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\BlogAppV2.pdb
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\csc.exe
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\csc.exe.config
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\csc.rsp
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\csi.exe
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\csi.exe.config
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\csi.rsp
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.AppContext.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Collections.Immutable.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Console.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.Compression.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.FileSystem.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.Pipes.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.AccessControl.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Claims.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.ValueTuple.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.XPath.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\vbc.exe
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\vbc.exe.config
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\vbc.rsp
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\VBCSCompiler.exe
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\roslyn\VBCSCompiler.exe.config
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\Microsoft.Web.Infrastructure.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Helpers.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Mvc.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Razor.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Deployment.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Razor.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Razor.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Deployment.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Razor.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Helpers.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\System.Web.Mvc.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.csprojAssemblyReference.cache
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.csproj.CoreCompileInputs.cache
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.csproj.CopyComplete
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.dll
+D:\Çalışmalar C Sharp\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.pdb
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\BlogAppV2.dll.config
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\BlogAppV2.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\BlogAppV2.pdb
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\csc.exe
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\csc.exe.config
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\csc.rsp
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\csi.exe
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\csi.exe.config
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\csi.rsp
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.AppContext.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Console.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\vbc.exe
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\vbc.exe.config
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\vbc.rsp
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Helpers.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Mvc.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Razor.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Razor.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Helpers.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\System.Web.Mvc.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.csproj.CopyComplete
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.dll
+C:\Users\Can\Desktop\BlogAppV2\BlogAppV2\obj\Debug\BlogAppV2.pdb
